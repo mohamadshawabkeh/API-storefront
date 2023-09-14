@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Electronics",
+      "name": "Samsung 4K Ultra HD Smart TV",
+      "description": "Experience stunning 4K visuals with this smart TV.",
+      "price": 799.99,
+      "inventoryCount": 10,
+      "imgPath": "https://image-us.samsung.com/SamsungUS/home/television-home-theater/tvs/crystal-uhd-tvs/10192022-1/UA65AU8000WXZW_013_L-Perspective2_Black-Gallery-1600x1200.jpg?$product-details-jpg$"
+    },
+    {
+      "id": 2,
+      "category": "Electronics",
+      "name": "Apple MacBook Pro",
+      "description": "Powerful and sleek, the MacBook Pro is perfect for professionals.",
+      "price": 1299.99,
+      "inventoryCount": 5,
+      "imgPath": "https://www.apple.com/newsroom/images/product/app-store/macOS_Preview_Mac_App_Store_Discover-screen-06042018_big.jpg.large.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Games",
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "description": "Embark on an epic adventure in the world of Hyrule.",
+      "price": 49.99,
+      "inventoryCount": 8,
+      "imgPath": "https://www.gamespot.com/a/uploads/scale_medium/1197/11970954/3181241-ig-lozbreathofthewildrelease-20170112.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Games",
+      "name": "Cyberpunk 2077",
+      "description": "Enter the dystopian future in this action-packed RPG.",
+      "price": 39.99,
+      "inventoryCount": 12,
+      "imgPath": "https://i.pinimg.com/originals/8f/da/6f/8fda6f3e00f8bde7b752cfef6ba42e3c.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Electronics",
+      "name": "New Product",
+      "description": "This is a new product",
+      "price": 99.99,
+      "inventoryCount": 15,
+      "imgPath": "https://example.com/new-product.jpg"
+    }
+  ]
+}
